@@ -2,9 +2,9 @@
 Prueba realizada con la version de .NET 6.0  
 
 ## Especificaciones
-Instalación de los paquetes Microsoft.EntityFrameworkCore.SqlServer 
-Instalación de los paquetes Microsoft.EntityFrameworkCore.Tools
-Ejecucion del comando Scaffold-DbContext para la generación automática de las entidades y el contexto.
+- Instalación de los paquetes Microsoft.EntityFrameworkCore.SqlServer 
+- Instalación de los paquetes Microsoft.EntityFrameworkCore.Tools
+- Ejecucion del comando Scaffold-DbContext para la generación automática de las entidades y el contexto.
 
 ## Funcionamiento
 Ejecutar la aplicación de Consola y se mostrará el resultado de cada pregunta.
