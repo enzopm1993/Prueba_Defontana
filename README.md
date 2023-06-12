@@ -7,7 +7,7 @@ Instalación de los paquetes Microsoft.EntityFrameworkCore.Tools
 Ejecucion del comando Scaffold-DbContext para la generación automática de las entidades y el contexto.
 
 ## Funcionamiento
-Ejecutar la aplicación de Consola y se mostra{ra el resultado de cada pregunta.
+Ejecutar la aplicación de Consola y se mostrará el resultado de cada pregunta.
 ![captura1](/captura/1.png "captura1")
 
 ## Consultas SQL
